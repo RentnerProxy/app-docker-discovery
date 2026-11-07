@@ -1,2 +1,2 @@
-Hier entsteht die optionale Docker-Discovery-App für RentnerProxy.
-Sie wird Proxy-Hosts anhand von Container-Labels automatisch verwalten.
+This repository will contain an optional Docker discovery app for RentnerProxy.
+It will automatically create proxy hosts from container labels.
